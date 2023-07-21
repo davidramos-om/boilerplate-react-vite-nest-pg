@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "node_modules",
+    "test",
+    "dist",
+    "orm-public.config.ts",
+    "orm-tenanted.config.ts",
+    "**/*spec.ts"
+  ]
+}
