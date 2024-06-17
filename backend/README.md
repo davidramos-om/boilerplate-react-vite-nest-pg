@@ -1,4 +1,4 @@
-# C-TPAT - Graph API
+# C - Graph API
 
 
 ## Generate resources
